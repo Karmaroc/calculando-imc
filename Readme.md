@@ -1,17 +1,8 @@
-# Calculando o Índice de Massa Corporal(IMC)
+<h1 align="center">Calculando o Índice de Massa Corporal(IMC) </h1>
 
 ## Sobre o projeto
 
 Este pequeno projeto construído em JavaScript tem como objetivo calcular o IMC do usuário, a partir da entrada de valores para "Peso" e "Altura". Retornando seu IMC e a classificação respectiva.
-## Regras do negócio:
-
-``IMC:``
-+ ``Menos do que 18,5: Abaixo do peso``
-+ ``Entre 18,5 e 24,9: Peso normal``
-+ ``Entre 25 e 29,9: Sobrepeso``
-+ ``Entre 30 e 34,9: Obesidade grau 1``
-+ ``Entre 35 e 39,9: Obesidade grau 2``
-+ ``Mais do que 40: Obesidade grau 3``
 
 ##  🛠 Técnicas e tecnologias utilizadas
 
@@ -19,6 +10,9 @@ Este pequeno projeto construído em JavaScript tem como objetivo calcular o IMC 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)
 
 ## 🎨 Layout
+
+![Calculando IMC](https://user-images.githubusercontent.com/69429925/206007796-72e055c2-cc33-4413-9dd9-4c799908b4a9.png)
+
 
 ## Autor
 
