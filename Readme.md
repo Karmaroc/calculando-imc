@@ -2,7 +2,7 @@
 
 ## Sobre o projeto
 
-Este pequeno projeto construído em JavaScript tem como objetivo calcular o IMC do usuário, a partir da entrada de valores para "Peso" e "Altura". Retornando seu IMC e a classificação respectiva.
+``Este pequeno projeto construído em JavaScript tem como objetivo calcular o IMC do usuário, a partir da entrada de valores para "Peso" e "Altura". Retornando seu IMC e a classificação respectiva.``
 
 ##  🛠 Técnicas e tecnologias utilizadas
 
