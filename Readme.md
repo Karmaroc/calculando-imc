@@ -15,7 +15,7 @@
 
 ## 🎨 Layout
 
-![Calculando IMC](https://user-images.githubusercontent.com/69429925/206007796-72e055c2-cc33-4413-9dd9-4c799908b4a9.png)
+<img src="https://user-images.githubusercontent.com/69429925/206007796-72e055c2-cc33-4413-9dd9-4c799908b4a9.png">
 
 
 ## Autor
