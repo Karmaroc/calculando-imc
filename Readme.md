@@ -14,9 +14,9 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)
 
 ## 🎨 Layout
-
+<p align="center">
 <img src="https://user-images.githubusercontent.com/69429925/206007796-72e055c2-cc33-4413-9dd9-4c799908b4a9.png">
-
+</p>
 
 ## Autor
 
